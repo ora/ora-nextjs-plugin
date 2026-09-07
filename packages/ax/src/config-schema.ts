@@ -202,7 +202,7 @@ const entryOverrideSchema = {
 
 export const axConfigSchema: Record<string, unknown> = {
   $schema: 'https://json-schema.org/draft/2020-12/schema',
-  $id: 'https://github.com/eralabs-ai/ora-nextjs-plugin/schema/ax.config.schema.json',
+  $id: 'https://github.com/ora/ora-nextjs-plugin/schema/ax.config.schema.json',
   title: 'AxConfig',
   type: 'object',
   properties: {
